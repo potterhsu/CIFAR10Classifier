@@ -1,0 +1,6 @@
+.idea
+.ipynb_checkpoints
+*.pyc
+data/*.tfrecords
+data/*.json
+logs/*
