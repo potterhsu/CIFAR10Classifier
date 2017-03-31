@@ -11,7 +11,7 @@ Implementation of CIFAR-10 classifier with TensorFlow
     $ python convert_to_tfrecords.py --data_dir ./data
     ```
 
-1. Test for reading TFRecords files (Optional)
+1. (Optional) Test for reading TFRecords files
 
     Open `read_tfrecords_sample.ipynb` in Jupyter
 
@@ -38,7 +38,7 @@ Implementation of CIFAR-10 classifier with TensorFlow
     $ tensorboard --logdir ./logs
     ```
 
-1. Try to make an inference (Optional)
+1. (Optional) Try to make an inference
 
     Open `inference_sample.ipynb` in Jupyter
 
