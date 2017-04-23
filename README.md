@@ -3,6 +3,11 @@
 Implementation of CIFAR-10 classifier with TensorFlow
 
 
+## Requirements
+
+* Python 2.7
+* Tensorflow
+
 ## Usage
 
 1. Convert to TFRecords format
